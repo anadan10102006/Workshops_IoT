@@ -1,0 +1,20 @@
+INFORME DE ANALISIS
+
+1. Procesos problemáticos:
+Se revisaron los procesos activos utilizando ps y htop.
+Se identificaron los procesos con mayor consumo de CPU y memoria.
+
+2. Filtrado de información:
+Se utilizaron grep y awk para localizar procesos
+y extraer información relevante.
+
+3. Errores HTTP 500:
+Se encontraron 2 registros con estado HTTP 500.
+
+4. Servicios afectados:
+Los servicios api y auth presentan un error cada uno.
+
+5. Conclusión:
+El análisis de procesos permite identificar posibles
+problemas de rendimiento, mientras que el análisis
+de logs JSON permite localizar errores en los servicios.

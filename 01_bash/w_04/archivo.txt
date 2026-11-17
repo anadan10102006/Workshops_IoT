@@ -1,0 +1,4 @@
+El sistema funciona correctamente
+Se presentó un error en el servidor
+La conexión funciona
+Otro error fue detectado
