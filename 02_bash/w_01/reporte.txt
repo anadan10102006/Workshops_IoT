@@ -1,0 +1,5 @@
+Cantidad total de registros:        7
+Cantidad de errores: 3
+Cantidad de advertencias: 1
+Usuario con mas errores:    3 user=juan
+IP con más errores:    3 ip=192.168.1.15
